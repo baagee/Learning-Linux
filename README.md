@@ -1,3 +1,2 @@
-# Linux达人养成记课堂笔记
-
-这里包括了慕课网(imooc.com)课程——【Linux达人养成记】Ⅰ和Ⅱ两部分的课堂笔记。
+# Learning-Linux
+学习linux的小巧教程，分为一二部分，就是慕课网linux教程笔记
